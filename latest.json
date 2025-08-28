@@ -4,10 +4,11 @@
   "pub_date": "2025-08-25T08:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/nurhan-shaban/aurorawe-update/releases/download/0.1.4/Pos.aurora.web_0.1.4_x64-setup.exe",         
-	    "signature":"dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYkpUZExPYzVnRDV0cHA1Zy80ZVNBYmQ0L2RobUEzSVIxRzIxRGFHejZJR21iRG5ZUXlGTUpVNmtxL1RUcTNrWEN5VGtvRjkzbVZEb25Ka1MyZlZLbnZ1bklFampZQkFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU2MTk3NDkzCWZpbGU6UG9zIGF1cm9yYSB3ZWJfMC4xLjRfeDY0LXNldHVwLmV4ZQpobmcrNUt5NFFRdWNqeXBkaTlES0pHcjVvVXZJcmJYNzFSQzByL0Vmb0hkenl6L0Q2QXh2anp5bW44TUJpaWZwbXdtM2ZXNFJNMmxHQ21tblprZnVCZz09Cg=="
+      "url": "https://github.com/nurhan-shaban/aurorawe-update/releases/download/0.1.5/Pos.aurora.web_0.1.5_x64-setup.exe",         
+	    "signature":"dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYkpUZExPYzVnRDMxbjU4OVdUdVNwQlo0alJEb0czY1J2NWRLM0M4Tjh5MER4N1dzT1BVc0dqQWQ4ck1qVzVYTHVvTlRiZysvT2xsS1dkRG1YbGFmYWRUS1dVL3hZcHd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU2MzcxMTIxCWZpbGU6UG9zIGF1cm9yYSB3ZWJfMC4xLjVfeDY0LXNldHVwLmV4ZQpYYkF4ZDZnZ3pmVHFiVXlTam1tZEZzdXUrczhkbnZYR3poYUdSWXN2Mm9acUdzUnJ4eVpkQmdPOHRYMU1HbzFIVm0xdWcvUUIzWERoMk5zSnArWWNDUT09Cg=="
     }
   }
 }
+
 
 
