@@ -1,14 +1,15 @@
 {
   "version": "0.1.5",
-  "notes": "Тест на updater: нова версия 0.1.5",
+  "notes": "Proba greska na vsicko",
   "pub_date": "2025-08-25T08:00:00Z",
   "platforms": {
     "windows-x86_64": {
       "url": "https://github.com/nurhan-shaban/aurorawe-update/releases/download/0.1.5/Pos.aurora.web_0.1.5_x64-setup.exe",         
-	    "signature":"dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYkpUZExPYzVnRDMxbjU4OVdUdVNwQlo0alJEb0czY1J2NWRLM0M4Tjh5MER4N1dzT1BVc0dqQWQ4ck1qVzVYTHVvTlRiZysvT2xsS1dkRG1YbGFmYWRUS1dVL3hZcHd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU2MzcxMTIxCWZpbGU6UG9zIGF1cm9yYSB3ZWJfMC4xLjVfeDY0LXNldHVwLmV4ZQpYYkF4ZDZnZ3pmVHFiVXlTam1tZEZzdXUrczhkbnZYR3poYUdSWXN2Mm9acUdzUnJ4eVpkQmdPOHRYMU1HbzFIVm0xdWcvUUIzWERoMk5zSnArWWNDUT09Cg=="
+	    "signature":"dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYkpUZExPYzVnRC9pUnV6c0hTMFRjUFl5Mk55UFNaVWs1Sy85ZDNJeGNnc2FPZDhtUUVDS2czSlVycUg2aWxmNzZKb2JUUmpGMU9zMG1TSVp1NkRiVSt3OEx6aFZmb0FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU2MzczMDcxCWZpbGU6UG9zIGF1cm9yYSB3ZWJfMC4xLjVfeDY0LXNldHVwLmV4ZQpsclk5UklsaVR0ZFpEWjFKRlBDV1NZMk15bmR0OFhoWkRObS9CY1NsZyt6Y3ZLUzBxaFBRVkNNS2d5SXpld2x5U0lJelMrUElwQUJRSVBFT2JuNDlCZz09Cg=="
     }
   }
 }
+
 
 
 
